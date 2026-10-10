@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="الطويله" src="https://github.com/user-attachments/assets/c821dfd7-f874-4ef7-a8d9-68c2449e6acd" />
+
 # **Daleelak**
 - It's an interactive, smart web portal designed to clarify and guide users regarding government services, official procedures, and court litigation filing processes, featuring a simulated AI system to evaluate and prioritize court cases. It also supports both Arabic and English languages.
 
@@ -12,5 +14,9 @@
 - **CSS3** : 	Grid and Flexbox, CSS custom properties, media queries for responsiveness and dark mode, logical properties for RTL/LTR.
 - **Vanilla JavaScript** : State management, UI rendering, input validation, scoring and transfer rules.
 - **Google Fonts** : Arabic/Latin font, with a fallback when offline.
-# **Cod Structuer** 
+# **Getting Started & Running Locally**
+- To run the project locally on your machine, follow these simple steps:
+  1. **Clone the repository** : ```bash
+   git clone [https://github.com/do-2005/AI-Quest.git](https://github.com/do-2005/AI-Quest.git)
+  2. **Navigate to the project directory** : cd AI-Quest
 
