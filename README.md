@@ -15,8 +15,10 @@
 - **Vanilla JavaScript** : State management, UI rendering, input validation, scoring and transfer rules.
 - **Google Fonts** : Arabic/Latin font, with a fallback when offline.
 # **Getting Started & Running Locally**
-- To run the project locally on your machine, follow these simple steps:
-  1. **Clone the repository** : ```bash
+To run the project locally on your machine, follow these simple steps:
+
+1. **Clone the repository:**
+   ```bash
    git clone [https://github.com/do-2005/AI-Quest.git](https://github.com/do-2005/AI-Quest.git)
   2. **Navigate to the project directory** : cd AI-Quest
 
